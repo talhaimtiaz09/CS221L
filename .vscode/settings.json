@@ -1,6 +1,17 @@
 {
     "files.associations": {
         "iostream": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "deque": "cpp",
+        "functional": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "*.tcc": "cpp",
+        "scoped_allocator": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "ranges": "cpp"
     }
 }
